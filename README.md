@@ -20,7 +20,7 @@ Arduino library to interface with the STC3115 battery gauge IC over I2C.
 ## Usage
 
 The code below creates an `STC3115` object and uses it to report the "% charge" of the battery (0-100%) every 5 seconds. 
-Refer to the datasheet in the `documents` folder to understand how to properly connect the STC3115 device in the circuit.
+Refer to the datasheet in the `documents` folder to learn how to properly design the schematic and PCB layout for the STC3115 device.
 
 ```cpp
 #include <Wire.h>
