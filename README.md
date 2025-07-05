@@ -1,6 +1,6 @@
 # STC3115 Battery Gauge Library
 
-Arduino library to interface with the STC3115 battery gauge IC over I2C.
+Arduino driver to interface with the STC3115 battery gauge IC over I2C.
 
 ## Features
 
