@@ -5,8 +5,7 @@ Arduino driver to interface with the STC3115 battery gauge IC over I2C.
 ## Features
 
 - Read battery voltage, current, open circuit voltage (OCV), and state of charge (SOC).
-- Simple class-based device driver compatible with Arduino IDE and Arduino CLI.
-- Example sketch included.
+- Class-based device driver compatible with Arduino IDE and Arduino CLI.
 
 ## Installation
 
