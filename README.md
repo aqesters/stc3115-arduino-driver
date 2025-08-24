@@ -11,7 +11,7 @@ Arduino driver to interface with the STC3115 battery gauge IC over I2C.
 ## Installation
 
 1. Download or clone this repository.
-2. Copy the `STC3115` folder into your Arduino `libraries` directory. The typical directory is one of the following.
+2. Copy the folder into your Arduino `libraries` directory. The typical directory is one of the following.
    - On Windows: `Documents\Arduino\libraries`
    - On macOS/Linux: `~/Documents/Arduino/libraries`
 3. Restart the Arduino IDE.
