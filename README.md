@@ -1,6 +1,6 @@
 # STC3115 Battery Gauge Library
 
-Firmware for controlling the STC3115 battery gauge chip using an Arduino IDE. 
+Firmware for controlling the STC3115 battery gauge chip using the Arduino IDE. 
 
 ## Features
 
